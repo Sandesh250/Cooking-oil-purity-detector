@@ -31,4 +31,20 @@ We developed a low-cost sensor system that:
 
 ![ThingSpeak Dashboard](ThingSpeak_Screenshots/dashboard.png)
 
-## 📁 Repository Structure
+## 🎥 Demo
+📺 [Demo Video Link](https://drive.google.com/file/d/1G8bF1nyLyU7gbWfczf-bUpR0DWkEOmlV/view?usp=drive_link)
+
+## 👨‍💻 Team
+- Ramakrishna M N  
+- Prajwal A U  
+- Sandesh S P  
+- Lohith P  
+- Lalan P  
+- 👩‍🏫 Guided by: Dr. Varuna M  
+
+## 🔗 References
+1. [Economic Times Article](https://health.economictimes.indiatimes.com/news/industry/sixty-pc-of-used-cooking-oil-finds-its-way-back-into-food-stream-says-study/93818373)
+2. [PubMed Study](https://pubmed.ncbi.nlm.nih.gov/37877148/)
+
+## 📜 License
+MIT License
